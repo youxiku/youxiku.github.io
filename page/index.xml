@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on KUL藏宝库</title>
+        <link>https://youxiku.github.io/page/</link>
+        <description>Recent content in Pages on KUL藏宝库</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>游戏库</copyright>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://youxiku.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>存档</title>
+        <link>https://youxiku.github.io/page/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://youxiku.github.io/page/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>关于</title>
+        <link>https://youxiku.github.io/page/about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://youxiku.github.io/page/about/</guid>
+        <description>&lt;h1 id=&#34;版权声明&#34;&gt;版权声明
+&lt;/h1&gt;&lt;p&gt;本站不允许受版权保护的软件以公开形式发布，如果发现请联系我们提交版权证书，我们会第一时间处理，请确保您已阅读并理解此政策。&lt;/p&gt;
+&lt;p&gt;附注：根据二○○二年一月一日《计算机软件保护条例》规定：为了学习和研究软件内含的设计思想和原理，通过安装、显示、传输或者存储软件等方式使用软件的，可以不经软件著作权人许可，不向其支付报酬。&lt;/p&gt;
+&lt;p&gt;▪ 数字千年版权法案（DMCA）
+本站接受受版权保护的内容DMCA侵权通知。&lt;/p&gt;
+&lt;p&gt;▪ 此站内其它站上的侵权地址
+针对未存储在本站服务器上的下载地址网盘存储的文件提出侵犯通知，请联系该存储网盘服务商提供版权侵犯通知。本站无权删除外部服务器上的文件，因此可能不会处理与该软件相关的版权侵权通知。&lt;/p&gt;
+&lt;p&gt;▪ 我们网站上的侵权下载地址
+受版权证书保护的软件页面我们会删除链接，要联系本站提交版权侵权通知，您必须使用邮件联系。通过提交版权侵犯通知，如果严重侵犯了贵方版权利益，我们将承担所有包括起诉费在内的损失赔偿责任。&lt;/p&gt;
+&lt;p&gt;只有发送邮件：您的侵权通知必须包含以下所有内容，我们才能被接受：
+您认为受版权保护的软件的详细信息，包括其在本网站内的页面。&lt;/p&gt;
+&lt;p&gt;您是版权所有者或有版权代理所有者的信息或证明，我们一般会在收到投诉后48小时内处理。
+声明：“我坚持使用上述涉嫌侵权的版权材料未经版权所有者，其代理人或法律的授权。我发誓，通知中的信息会受到法律处罚，确保无误，并且我是版权所有者或被授权代表涉嫌侵权的专有权的所有者行为。”&lt;/p&gt;
+&lt;p&gt;侵权投诉邮箱：kooshare#outlook.com&lt;/p&gt;
+&lt;p&gt;Contact / DMCA Please contact kooshare#outlook.com&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://youxiku.github.io/page/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://youxiku.github.io/page/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>友情链接</title>
+        <link>https://youxiku.github.io/page/link/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://youxiku.github.io/page/link/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
